@@ -241,6 +241,23 @@ One of the main conclusions from the project was that **creating an encryption a
 
 ---
 
+# Project Structure
+
+```text
+LGCC/
+├── README.md
+├── Documentation.pdf
+├── src/
+│   └── LGCC.py
+├── pseudocode/
+│   └── Flowchart of Decryption process.png
+│   └── Flowchart of Encryption process.png
+│   └── LGCC Encryption and Decryption pseudocode.pdf
+
+```
+---
+
+
 # Academic Context
 
 **Module:** CC5009NI – Cyber Security in Computing
