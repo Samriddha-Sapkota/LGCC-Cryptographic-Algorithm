@@ -8,7 +8,7 @@ A custom byte-oriented symmetric cryptographic algorithm designed and evaluated 
 
 ---
 
-# This README only contains the surface of the documentation. To read the full documentation, please refer to `Documentation.pdf`.
+# This README only contains the surface of the documentation. To read the full documentation, please refer to [Documentation.pdf](./Documentation.pdf).
 
 ## Overview
 
@@ -270,7 +270,7 @@ For the complete technical documentation, including:
 
 please refer to:
 
-**`Documentation.pdf`**
+[Documentation.pdf](./Documentation.pdf)
 
 ---
 
